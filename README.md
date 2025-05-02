@@ -53,9 +53,3 @@ Flight_Data/
    - `speed_data`: Calculates aircraft speeds.
    - `aggregated_data`: Generates summary analytics.
 
-
-3. **Access Airflow UI:
-    Open http://localhost:8080
-    Username: admin
-    Password: admin
-
