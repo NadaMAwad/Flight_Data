@@ -1,0 +1,12 @@
+flights_profile:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: postgres  
+      user: airflow
+      password: airflow
+      port: 5432
+      dbname: flights
+      schema: public
+      threads: 1
